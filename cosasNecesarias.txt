@@ -1,0 +1,19 @@
+
+
+comandos para git y poder subir proyecto a github desde la consola
+
+git init ==> inicia el versionamiento
+git add . ==> se le indica que se va a añadir un commit 
+git commit -m "se crean rutas y controles" ==> se especifica el cambio que se hizo para ir guardando la información y tener un      
+               control de proyecto
+
+git config credential.helper""  ==> se utiliza para limpiar credenciales en un computador donde se utilice muchas cuentas de github
+
+
+
+Status http que se pueden dar en la pagina
+200 todo salio correcto, no hay ningun error 
+300 son errores de redireccion
+400 errores de front cliente
+500 errores de servidor o codigo
+
